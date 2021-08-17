@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+//    Palindrome
 //    string s, s1;
 //    cin >> s;
 //    s1 = s;
